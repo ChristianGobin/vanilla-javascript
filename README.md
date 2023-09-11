@@ -14,9 +14,9 @@
 ## Code Wars
 <dl>
   <dt>
-    <a href="https://www.codewars.com/kata/53697be005f803751e0015aa/train/javascript">The Vowel Code</a>🚧
+    <a href="https://www.codewars.com/kata/53697be005f803751e0015aa/train/javascript">The Vowel Code</a>✔️
   </dt>
   <dd>
-   Description is kinda long, see the link above.
+   Solved Problem with hacky code. Should refactor.
   </dd>
 </dl>
