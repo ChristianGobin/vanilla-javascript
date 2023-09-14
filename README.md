@@ -1,16 +1,5 @@
 # vanilla-javascript
 =====
-<dl>
-  <dt>
-    Console Game - Blackjack v0
-  </dt>
-  <dd>
-    Console game for one player blackjack.
-    - Datastructures - simple & complex
-    - Math.random
-  </dd>
-</dl>
-
 ## Code Wars
 <dl>
   <dt>
@@ -19,4 +8,12 @@
   <dd>
    Solved Problem with hacky code. Should refactor.
   </dd>
+  <dt>
+    <a href="https://www.codewars.com/kata/53697be005f803751e0015aa/train/javascript](https://www.codewars.com/kata/57f759bb664021a30300007d/train/javascript">Switcharoo</a>✔️
+  </dt>
+  <dd>
+   🚧
+  </dd>
 </dl>
+
+
